@@ -1,0 +1,27 @@
+to start local Git
+
+git init
+vi file.txt- where it specifiy the name of the file
+
+staging gile
+git add file.txt
+
+commit git add- upload to local repo
+git commit -m "comment"
+
+to chek the git status
+git status
+
+to check git log
+git log
+
+establish git lab
+git remote add origin http link
+
+git push -u origin master
+
+git remote- to see origin we are in
+
+
+
+
